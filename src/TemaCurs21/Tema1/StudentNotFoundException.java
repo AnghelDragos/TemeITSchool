@@ -1,4 +1,4 @@
-package TemaCurs21;
+package TemaCurs21.Tema1;
 
 public class StudentNotFoundException extends RuntimeException{
     public StudentNotFoundException(String message){

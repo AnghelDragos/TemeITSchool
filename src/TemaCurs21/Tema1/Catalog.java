@@ -1,4 +1,4 @@
-package TemaCurs21;
+package TemaCurs21.Tema1;
 
 import java.util.ArrayList;
 import java.util.List;
